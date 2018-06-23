@@ -1,0 +1,105 @@
+body{
+	background-image: url(http://hdimages.org/wp-content/uploads/2016/11/html-background-image-HD3-1.jpg);
+} 
+
+.sect--1{
+	width: 90%;
+	height: 100%;
+	
+}
+.sec--1-h1{
+	width: 90%;
+	font-size: 80px;
+	color: #F8E0E0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border:2px solid #F8E0E0;
+	margin-left: 90px;
+}
+
+.sec--1-img{
+	width: 75%;
+	height: 50%;
+	margin-left: 180px;
+	margin-top: -15px;
+
+}
+.sec--1-audio{
+	margin-top: 0px;
+	margin-left: 180px;
+	background: blue;
+	width: 75%;
+}
+.sec--1-video{
+	width: 75%;
+	height:50%;
+	margin-left: 180px;
+
+}
+.sec--1-inframe{
+	width: 75%;
+	margin-left: 180px;
+	height: 30%;
+}
+.ul--li{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	margin-left: 50px;
+	list-style-type: none;
+}
+.ul--li-h1{
+	margin-left: 20px;
+	margin-bottom: 5px;
+	color: #F8E0E0;
+}
+.ul--li-img{
+	width: 210px;
+	height: 300px;
+	margin: 5px 5px 5px 5px;
+}
+.tab{
+	width: 110%;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+.tr--unica{
+	background: #DF013A;
+	height: 30px;
+	font-size: 25px;
+	color: #F8E0E0;
+}
+
+.td--1-2-3{
+	height: 250px;
+	background: #B40431;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #F8E0E0;
+}
+.conteudo{
+	width: 20%;
+	background: #8A0829;
+	color: #F8E0E0;
+}
+
+.td--img{
+	background: #3B0B17;
+}
+.th--img{
+	width: 190px;
+	height: 190px;
+	margin: 0 5px 0 5px;
+}
+.footer--h1{
+	width: 90%;
+	font-size: 80px;
+	color: #F8E0E0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border:2px solid #F8E0E0;
+	margin-left: 90px;
+}
